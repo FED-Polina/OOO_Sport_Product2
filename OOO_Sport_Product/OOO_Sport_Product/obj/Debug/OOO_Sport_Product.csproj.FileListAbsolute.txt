@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\bin\Debug\OOO_Sport_Product.exe.config
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\bin\Debug\OOO_Sport_Product.exe
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\bin\Debug\OOO_Sport_Product.pdb
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product_MarkupCompile.cache
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product_MarkupCompile.lref
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.g.resources
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.exe
+\\vmware-host\Shared Folders\Desktop\Demo\OOO_Sport_Product\OOO_Sport_Product\obj\Debug\OOO_Sport_Product.pdb
